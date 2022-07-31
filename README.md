@@ -1,4 +1,8 @@
 # JALA-backend-test
+
+API Doc : https://documenter.getpostman.com/view/3545355/UzdzTRE5
+
+---------------------------------------------------------------------
 membuat sebuah backend menggunakan Laravel untuk Toko Online sederhana dengan spesifikasi sebagai berikut.
 
 1. Terdapat 2 role, admin dan user
